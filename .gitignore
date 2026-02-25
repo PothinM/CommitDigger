@@ -1,0 +1,14 @@
+# Ignorer le fichier contenant ton token secret (CRITIQUE)
+.env
+
+# Ignorer les environnements virtuels Python
+venv/
+env/
+
+# Ignorer les résultats de tes propres recherches (pour ne pas fuiter tes cibles)
+*.csv
+
+# Ignorer les fichiers temporaires de macOS et de Python
+.DS_Store
+__pycache__/
+*.pyc
